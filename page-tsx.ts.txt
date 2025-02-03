@@ -1,0 +1,9 @@
+import EventWebsite from '@/components/event-website'
+
+export default function Home() {
+  return (
+    <main>
+      <EventWebsite />
+    </main>
+  )
+}
